@@ -7,3 +7,40 @@ Unit: Nine (9)
 .container {
     margin-bottom: 100px;
 }
+.navbar-brand img {
+    width: 80px;
+    height: 30px;
+}
+.buy-now-button {
+    background-image: linear-gradient(to top, tomato, yellow);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card {
+    box-shadow: 7px 7px 7px 10px lightgray;
+    border: none;
+    border-radius: 10px;
+}
+.card-footer {
+    border: none;
+}
+.container {
+    margin-bottom: 150px;
+}
+.h1-margin {
+    border-bottom: 6px solid lightslategray;
+    width: 200px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.bx-shadow {
+    box-shadow: 2px 2px 3px lightslategray;
+    padding: 10px;
+    border-radius: 10px;
+}
+.bx-shadow img {
+    width: 100px;
+}
